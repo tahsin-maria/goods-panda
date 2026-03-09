@@ -832,7 +832,7 @@
     }
 }
 
-@media screen and (max-width:480px){
+@media screen and (max-width:510px){
       #cat-shoe-back-container {
     margin-bottom: 50px;
 }
@@ -862,4 +862,5 @@
         padding: 10px 13px;
         font-size: 9px;
     }
+
 }
